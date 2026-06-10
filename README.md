@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋<img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/8aa15e50-5168-4e09-b3f8-b44ba0bd30af" />
+
 
 EU sou o Vinícius, estou iniciando na programaçâo, por enquanto não sei muito mas quero aprender!
 estudando no momento:
